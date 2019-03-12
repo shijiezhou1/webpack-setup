@@ -1,4 +1,5 @@
-![webpack](webpack.png)
+
+<img src="webpack.png" width="500" height="400" />
 
 #To use webpack 
 
