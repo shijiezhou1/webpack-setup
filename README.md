@@ -3,6 +3,8 @@
 
 #To use webpack 
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/shijiezhou1/webpack-setup.svg)](https://greenkeeper.io/)
+
 ```
 npm install webpack -g
 npm install webpack-cli -g
